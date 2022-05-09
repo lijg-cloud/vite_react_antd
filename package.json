@@ -10,6 +10,7 @@
     "eslint": "eslint --ext .tsx,.ts --fix ./src"
   },
   "dependencies": {
+    "antd": "^4.20.3",
     "axios": "^0.27.2",
     "dayjs": "^1.11.1",
     "koa": "^2.13.4",
